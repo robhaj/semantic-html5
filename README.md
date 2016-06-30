@@ -16,9 +16,12 @@ Semantic Elements:
 ![img](semTags.png)
 
 ## Div-itis!
-```
-"Is that div part of the outline of the page, defining a section or a subsection?" Or "is it only a presentational div, only used for styling?")
-```
+> Is that div part of the
+> outline of the page,
+> defining a section or a
+> subsection? Or is it a
+> presentational div, only
+> used for styling?
 
 Overusing div tags for defining semantic sections makes automatic outlining impossible.
 
