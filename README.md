@@ -23,9 +23,7 @@ Semantic Elements:
 > presentational div, only
 > used for styling?"
 
-Overusing div tags for defining semantic sections makes automatic outlining impossible.
-
-For assistive technology, automatic outlining is important. Information gets presented to the users according to the structure of the document.
+Overusing div tags for defining semantic sections makes automatic outlining impossible. For assistive technology, automatic outlining is important. Information gets presented to the users according to the structure of the document.
 
 A document can have special sections containing information that is not part of, though it is related to, the main flow, like an advertisement block or an explanation box. HTML5 introduces the aside element allowing such sections to not be part of the main outline.
 
